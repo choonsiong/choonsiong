@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- Enjoy learning and programming 
+- Enjoy sleeping and do nothing...
 
 <!--
 **choonsiong/choonsiong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
