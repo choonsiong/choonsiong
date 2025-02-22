@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-- Enjoy sleeping and do nothing...
-
 ![image](img/image.jpeg)
 
 <!--
